@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lua19
 - 👀 I’m interested in learning application design and databases.
-- 🌱 I’m currently learning C#, .NET frameworks and Flutter.
+- 🌱 I’m currently learning React, .Net frameworks and Flutter.
 - 💞️ I’m looking to collaborate on anything where i can learn something fun or useful.
 - 📫 How to reach me: miguellua100@gmail.com
 
